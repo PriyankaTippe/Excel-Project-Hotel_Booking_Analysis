@@ -25,7 +25,3 @@ The goal of this analysis is to derive insights from historical booking data to 
   - Conditional Formatting  
   - Slicers & Filters  
   - Formulas & Functions
-
-## 📦 File
-
-- `Hotel_Booking_Analysis.xlsx` – Main analysis file containing data cleaning, visualizations, and insights.
